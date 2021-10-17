@@ -1,0 +1,11 @@
+class LocatorsXPath:
+    name = "//body/div[@id='page']/div[@id='main']/div[2]/div[1]/aside[1]/div[1]/section[2]/form[1]/div[1]/span[1]/input[1]"
+    email ="//*[@class='validate[required,custom[email]]']"
+    telephone ="//*[@class='validate[required,custom[phone]]']"
+    country ="//*[@placeholder='Country']"
+    company = "//*[@placeholder='Company']"
+    message = "//*[@placeholder='Message']"
+    submit = "//*[@class='dt-btn dt-btn-m dt-btn-submit']"
+    clear = "//*[@class='clear-form']"
+    feedbacksent = "//*[@class='formErrorContent']"
+    formfields = "//div[@class='form-fields']//*[@type='text']"
