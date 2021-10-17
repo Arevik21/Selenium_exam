@@ -1,2 +1,2 @@
 # Selenium_exam
-Here are automated test cases for final project
+Here are automated tests for final project
